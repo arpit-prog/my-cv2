@@ -1,8 +1,8 @@
 from tkinter import Frame,Label,CENTER
 
 
-import constant2048 as c
-import Logic as L
+import constant2048 as c ##constant file2048.py
+import Logic as L ###logic file2048.py
 
 class Game2048(Frame):
     def __init__(self):
